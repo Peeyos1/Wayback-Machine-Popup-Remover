@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Wayback Machine Popup Remover
-// @namespace    https://github.com/PIjus-Github
+// @namespace    https://github.com/Peeyos1
 // @version      1.0
 // @description  Removes any popups that you may see on Wayback Machine
 // @author       PIjus
